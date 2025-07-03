@@ -17,7 +17,7 @@
 
 Comprehensive guidelines and best practices for different technology stacks:
 
-- **Angular Fullstack**: `/.windsurf/rules/angular_fullstack_rules.md`
+- **[Angular Fullstack](.windsurf/rules/angular_fullstack_rules.md)**
   - Angular frontend standards
   - State management with NgRx
   - HTTP & API integration
@@ -26,7 +26,7 @@ Comprehensive guidelines and best practices for different technology stacks:
   - Testing strategies
   - Performance optimization
 
-- **React/Next.js**: `/.windsurf/rules/react_nextjs_rules.md`
+- **[React/Next.js](.windsurf/rules/react_nextjs_rules.md)**
   - React/Next.js frontend standards
   - State management with Zustand/Redux
   - API integration with React Query
@@ -34,7 +34,7 @@ Comprehensive guidelines and best practices for different technology stacks:
   - Authentication & security
   - Styling with Tailwind CSS
 
-- **Data Science**: `/.windsurf/rules/data_science_rules.md`
+- **[Data Science](.windsurf/rules/data_science_rules.md)**
   - Python environment setup
   - Data processing & analysis
   - Machine learning with Scikit-learn
@@ -42,7 +42,7 @@ Comprehensive guidelines and best practices for different technology stacks:
   - Model evaluation
   - Project structure
 
-- **Monorepo with Tamagui**: `/.windsurf/rules/monorepo-tamagui.md`
+- **[Monorepo with Tamagui](.windsurf/rules/monorepo-tamagui.md)**
   - Monorepo management with Turbo
   - Cross-platform UI with Tamagui
   - State management with Zustand
