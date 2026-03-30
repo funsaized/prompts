@@ -8,3 +8,46 @@ data_science_rules.md: prompts
 monorepo-tamagui.md: prompts
 project_instructions.md: prompts
 react_nextjs_rules.md: prompts
+
+# System prompts — leaked and official system prompts from AI coding tools
+cursor-system-prompt.md: system-prompts
+windsurf-cascade-system-prompt.md: system-prompts
+devin-system-prompt.md: system-prompts
+claude-4-sonnet-system-prompt.md: system-prompts
+claude-code-system-prompts.md: system-prompts
+theia-ide-system-prompts.md: system-prompts
+claude-code-best-practices.md: system-prompts
+azure-sdk-copilot-instructions.md: system-prompts
+vibe-coding-prompts-analysis.md: system-prompts
+
+# Cursor rules — .cursorrules and .mdc files for Cursor IDE
+nextjs-react-typescript.md: prompts
+python-fastapi.md: prompts
+react.mdc: prompts
+typescript.mdc: prompts
+
+# Workflows — multi-agent orchestration patterns
+anthropic-multi-agent-research-system.md: workflows
+crewai-examples.md: workflows
+crewai-flows.md: workflows
+langgraph-comparison.md: workflows
+autogen-sequential-workflow.md: workflows
+langchain-handoffs.md: workflows
+agentic-workflow-patterns.md: workflows
+arxiv-multi-agent-collaboration.md: workflows
+
+# Reference — MCP specification and ecosystem docs
+mcp-specification-overview.md: reference
+mcp-architecture.md: reference
+mcp-tools-spec.md: reference
+mcp-resources-spec.md: reference
+mcp-official-servers.md: reference
+microsoft-mcp-for-beginners.md: reference
+
+# Reference — curated community collections and awesome lists
+awesome-mcp-servers.md: reference
+awesome-claude-code.md: reference
+awesome-claude-skills.md: reference
+awesome-cursorrules.md: reference
+awesome-copilot-for-testers.md: reference
+awesome-claude-code-toolkit.md: reference
